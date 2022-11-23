@@ -1,12 +1,15 @@
 ## Hi there, I'm Mochamad Hilmy Febrian 👋
 
-### My stat
+<h3> My stat </h3>
 <p align="center"><img src="https://www.codewars.com/users/Hilll19/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Hilll19&show_icons=true&include_all_commits&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hilll19&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilll19&layout=compact&theme=monokai&langs_count=12"/><br />
+  <align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hilll19&theme=monokai"/>
 </p>
-
+<h3>HELLO WORLD</h3>
+<p>My Name is Mochamad Hilmy Febrian.I'm Junior Web Developer</p>
+<p>
+  <align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilll19&layout=compact&theme=monokai&langs_count=12"/><br />
+</P>
 <!--
 **Hilll19/Hilll19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
