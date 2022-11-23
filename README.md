@@ -1,6 +1,6 @@
 ## Hi there, I'm Mochamad Hilmy Febrian 👋
 
-### and here is my stats
+### My stat
 <p align="center"><img src="https://www.codewars.com/users/Hilll19/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Hilll19&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hilll19&theme=monokai"/>
