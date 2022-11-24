@@ -1,4 +1,4 @@
-<h1>Hello World 👋</1>
+<h1>Hello World 👋</h1>
 
 ## My stat
   <img src="https://www.codewars.com/users/Hilll19/badges/large" align="center"/><br /><br />
