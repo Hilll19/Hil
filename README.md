@@ -23,3 +23,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Some projects that taught me the basics
+- [🏙️ Rembang Tour](https://github.com/Hilll19/RembangTour)
+- [☕ Kopi Emak](https://github.com/Hilll19/Kopi-Emak)
+
+# Reach Me
+- Email: [hilllworking0110@gmail.com](mailto:hilllworking0110@gmail.com)
+- LinkedIn: [Moch Hilmy Febrian](https://www.linkedin.com/in/moch-hilmy-febrian-eka-cahyadi-17a10521b/)
+- Instagram: [@hlmyfe](https://www.instagram.com/hlmyfe)
+
+---
+2023 - Hilmy Febrian
+
+
