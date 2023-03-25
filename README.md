@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 # Some projects that taught me the basics
 - [🏙️ Rembang Tour](https://github.com/Hilll19/RembangTour)
 - [☕ Kopi Emak](https://github.com/Hilll19/Kopi-Emak)
+- [🕧 Digital Clock](https://github.com/Hilll19/Experiment/tree/main/Digital%20Clock)
+- [🎮 Eat Ronaldo python](https://github.com/Hilll19/EatRonaldo-Game)
+- [🖼️ Edge Image Processing](https://github.com/Hilll19/Experiment/tree/main/Edge%20Image%20Processing)
+- [🎞️ UI Netflix with ReactJS(abandoned || unfinished)](https://github.com/Hilll19/netflix-clone-hil)
 
 # Reach Me
 - Email: [hilllworking0110@gmail.com](mailto:hilllworking0110@gmail.com)
