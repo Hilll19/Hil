@@ -1,9 +1,11 @@
+![github-header-image](https://user-images.githubusercontent.com/91865375/227990290-77629933-c4ca-4047-a49c-995072069f2d.png)
 <h1 align="center">Hi 👋, I'm Hilmy Febrian</h1>
-<h3 align="center">Frontend developer Enthusiast</h3>
+<!-- <h3 align="center">Frontend developer Enthusiast</h3> -->
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilll19&label=Profile%20views&color=0e75b6&style=flat" alt="hilll19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hilll19" alt="hilll19" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hilll19" alt="hilll19" /></a> </p> -->
 
 - 🌱 I’m currently learning **ReactJS, Golang**
 
