@@ -8,7 +8,7 @@
 # About
 My Name is Mochamad Hilmy Febrian.I'm Junior Web Developer
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilll19&layout=compact&theme=monokai&langs_count=12" align="center"/><br />
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hilll19&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Hilll19/Hilll19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
