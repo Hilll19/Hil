@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hilll19" alt="hilll19" /></a> </p> -->
 
-- 🌱 I’m currently learning **ReactJS, Golang**
+- 🌱 I’m currently learning **ReactJS**
 
 - ✉️ Email **hilworking0110@gmail.com**
 
