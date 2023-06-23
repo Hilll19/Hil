@@ -25,6 +25,7 @@
 - [🕧 Digital Clock](https://github.com/Hilll19/Experiment/tree/main/Digital%20Clock)
 - [🎮 Eat Ronaldo python](https://github.com/Hilll19/EatRonaldo-Game)
 - [🖼️ Edge Image Processing](https://github.com/Hilll19/Experiment/tree/main/Edge%20Image%20Processing)
+- [🎞️ AI Anime recommender](https://github.com/resqiar/anime-recommender)
 - [🎞️ UI Netflix with ReactJS(abandoned || unfinished)](https://github.com/Hilll19/netflix-clone-hil)
 
 # Reach Me
