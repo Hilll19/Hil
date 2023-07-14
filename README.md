@@ -28,6 +28,12 @@
 - [🎞️ AI Anime recommender](https://github.com/resqiar/anime-recommender)
 - [🎞️ UI Netflix with ReactJS(abandoned || unfinished)](https://github.com/Hilll19/netflix-clone-hil)
 
+# Wakatime Stats
+Wakatime count and generate chart based on my programming activities and what tools that I used across the time. Details are available in my wakatime [account](https://wakatime.com/@Hilll19)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hilll19&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+> *Other is just googling & debugging on the browser
+> 
 # Reach Me
 - LinkedIn: [Moch Hilmy Febrian](https://www.linkedin.com/in/moch-hilmy-febrian-eka-cahyadi-17a10521b/)
 - Instagram: [@hlmyfe](https://www.instagram.com/hlmyfe)
