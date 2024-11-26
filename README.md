@@ -32,12 +32,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-<a href="https://github.com/Hilll19">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hilll19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hilll19&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Hilll19" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img height="300px" width="450px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hilll19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="300px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hilll19&theme=algolia" />
 </a>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hilll19&theme=algolia" align="center"/>
+
 
 # Some projects that taught me the basics
 - [🌐 GrammGrid](https://github.com/Hilll19/RembangTour](https://github.com/Hilll19/grammgrid))
